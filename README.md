@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on [La-Masia Sports Academy](https://sports-acedemy.web.app/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Typescript and Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://emon69.netlify.app/](https://emon69.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,Javscript,React,MERN,Firebase,**
+- 💬 Ask me about **Javscript,Typescript,ReactJs, MongoDB, Mongoose, ExpressJs, MERN,Firebase,**
 
 - 📫 How to reach me **smdemon3@gmail.com**
 
