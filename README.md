@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semon69&label=Profile%20views&color=0e75b6&style=flat" alt="semon69" /> </p>
 
 
-- 🔭 I’m currently working at Diligent Doft IT as a Backend Developer
+- 🔭 I’m currently working at **Diligent Doft IT** as  **Backend Developer**
 
 - 🌱 I’m currently learning **GraphQL**
 
