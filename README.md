@@ -39,7 +39,7 @@
 ![NextJs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Redux](https://img.shields.io/badge/-Redux-#764abc?style=flat-square&logo=redux)
+![Redux](https://img.shields.io/badge/-Redux-blue?style=flat-square&logo=redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-563D7C?style=flat-square&logo=Tailwind)
