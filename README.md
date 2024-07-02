@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://emon69.netlify.app/)
 
-- 💬 Ask me about **Javscript, Typescript, ReactJs, NexrJs, NodeJs, MongoDB, PostgreSQL**
+- 💬 Ask me about **Javscript, Typescript, ReactJs, NextJs, NodeJs, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **smdemon3@gmail.com** or **+8801817855902_(whatsapp)**
 
