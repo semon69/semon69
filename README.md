@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Javscript, Typescript, ReactJs, NexrJs, NodeJs, MongoDB, PostgreSQL**
 
-- 📫 How to reach me **smdemon3@gmail.com**
+- 📫 How to reach me **smdemon3@gmail.com** or **+8801817855902 (whatsapp)**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bERsxfQ8YEpvopOmim-gVLfi6a0218xv/view?usp=sharing)
 
