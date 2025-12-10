@@ -10,9 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semon69&label=Profile%20views&color=0e75b6&style=flat" alt="semon69" /> </p>
 
 
-- 🔭 I’m currently working at **Diligent Doft IT** as  **Backend Developer**
+- 🔭 I’m currently working at **Standard Insights** as  **Software Engineer**
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://emon69.netlify.app/)
 
