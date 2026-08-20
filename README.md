@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Emon Sheikh</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate Software developer from Bangladesh</h3>
 <img src="https://i.ibb.co/89t2yjj/cover.jpg" alt="image">
 <div display='flex'>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semon69&show_icons=true&locale=en" alt="semon69" /></p>
@@ -10,9 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semon69&label=Profile%20views&color=0e75b6&style=flat" alt="semon69" /> </p>
 
 
-- 🔭 I’m currently working at **Standard Insights** as  **Software Engineer**
-
-- 🌱 I’m currently learning **Docker**
+- 🔭 I’m currently working at **Nebs-It** as  **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://emon69.netlify.app/)
 
